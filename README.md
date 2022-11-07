@@ -1,2 +1,2 @@
 # odin-recipes
-basic recipes site. Odin led.
+Basic recipes site. Odin led.
